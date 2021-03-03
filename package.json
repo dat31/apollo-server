@@ -1,0 +1,12 @@
+{
+  "name": "apollo-server",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/dat31/apollo-server.git",
+  "author": "dat31 <tr.quocdat@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.21.0",
+    "graphql": "^15.5.0"
+  }
+}
